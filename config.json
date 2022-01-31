@@ -1,0 +1,8 @@
+{
+    "credentials":{
+        "email":"email",
+        "password":"password"
+    },
+    "timeout":600,
+    "initial_sleep":45
+}
